@@ -43,8 +43,8 @@ I am currently exploring **multi-agent systems**, especially questions like:
 - [`SJTU-CS2501H-Discrete-Math-Notes`](https://github.com/Aletheiar/SJTU-CS2501H-Discrete-Math-Notes)  
   Personal notes for discrete mathematics.
 
-- [`CS61A-Assignments`](https://github.com/Aletheiar/CS61A-Assignments)  
-  Programming practice from CS61A.
+- [`ace-taffy-codex-pet`](https://github.com/Aletheiar/ace-taffy-codex-pet)  
+  A custom animated Taffy task pet for Codex desktop.
 
 ## Tech stack
 
