@@ -1,4 +1,4 @@
-# Hi, I'm Quan Yuhe 👋
+# Hi, I'm Aletheiar 👋
 
 I'm an undergraduate student learning artificial intelligence and trying to understand how intelligent systems are built from the inside.
 
